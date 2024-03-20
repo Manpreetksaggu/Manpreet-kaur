@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT roles related to SAP MM. 
 - 🌱 I’m currently learning Data Migration in SAP. 
 - 😄 Pronouns: She/Her
-- About : Over 7 years of experience within IT plus management fields, possesses a comprehensive understanding of integration and configuration in the area of SAP materials management, Supplychain management, Sourcing and procurement and Sales & Distribution.
+- About : Over 7 years of experience within IT plus management fields, possess a comprehensive understanding of integration and configuration in the area of SAP materials management, Supplychain management, Sourcing and procurement and Sales & Distribution.
 
   
 
